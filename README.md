@@ -98,7 +98,7 @@ Build a news topic classifier that:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Dev-ZishanKhan/News-Topic-Classifier-BERT
+git clone https://github.com/Zishan-AI-Eng/News-Topic-Classifier-BERT
 cd News-Topic-Classifier-BERT
 ```
 
@@ -136,5 +136,5 @@ This project is part of the **DevelopersHub Corporation AI/ML Engineering Intern
 ## 👨‍💻 Author
 
 **Zishan Khan**
-- 🌐 GitHub: [@Dev-ZishanKhan](https://github.com/Dev-ZishanKhan)
+- 🌐 GitHub: [@Dev-ZishanKhan](https://github.com/Zishan-AI-Eng)
 - 💼 LinkedIn: [Zishan-Coderx](https://www.linkedin.com/in/zishan-ai-engineer/)
